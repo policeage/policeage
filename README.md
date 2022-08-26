@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @policeage
 - 👀 I’m interested in programming, music, and writing
 - 🌱 I’m currently cruising through the Odin Project
-- 💞️ I’m looking to collaborate on development which requires HTML, CSS
+- 💞️ I’m looking to collaborate on development which requires HTML, CSS, JS, Node.js, etc.
 - 📫 How to reach me: Email policeage1@gmail.com
