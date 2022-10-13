@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert H</h1>
-<h3 align="center">An intelligence veteran turned Full-Stack Developer</h3>
+<h3 align="center">Life Experienced Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on [a project involving EJS front end, with Tailwind CSS framework, and a Back-End utilizing MongoDB as the database, Express and Mongoose for developing the routing and controllers..](https://github.com/policeage/100-Hour-Project)
 
